@@ -1,0 +1,3 @@
+[submodule "App-Personal-Kuniyoshi-Rename"]
+	path = App-Personal-Kuniyoshi-Rename
+	url = git://github.com/kuniyoshi/App-Personal-Kuniyoshi-Rename.git
