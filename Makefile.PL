@@ -4,6 +4,8 @@ all_from 'lib/App/Personal/Kuniyoshi.pm';
 
 # requires '';
 
+install_script "App-Personal-Kuniyoshi-Rename/bin/pl-rename";
+
 tests 't/*.t';
 author_tests 'xt';
 

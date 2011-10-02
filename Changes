@@ -1,5 +1,9 @@
 Revision history for Perl extension App::Personal::Kuniyoshi
 
+0.02    Sun Oct  2 17:30:00 2011
+        - Fix a bug that does not install a script
+        - Improve document.
+
 0.01    Sun Oct  2 17:05:00 2011
         - Add Rename which is named pl-rename
 
